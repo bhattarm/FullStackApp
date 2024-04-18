@@ -25,4 +25,4 @@ dist-ssr
 *.sln   
 *.sw?   
 .eslintrc.cjs
-.toml
+*.toml
